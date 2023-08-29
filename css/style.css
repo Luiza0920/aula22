@@ -1,8 +1,19 @@
 
-p{
-color: #1F1CF9;
+h1{
+Color:Blue;
+font-family: Helvetica;
+}
+#maisimportante{ 
+Color:#1f1cf9;
+}
+Body {
+	margin: 50px;
+	padding:10px;
+ background-color: #DCC73C;
+}
+h1{
+	 font-size: 80px;
+	border: 1px solid blue;
+	padding:50px;
 }
 
-#maisimportante {
-Color:red;
-}
